@@ -6,14 +6,8 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.support.v4.app.FragmentManager;
+import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
-import android.view.View;
-import android.widget.TextView;
-import android.widget.Toast;
-
-import com.google.zxing.integration.android.IntentIntegrator;
-import com.google.zxing.integration.android.IntentResult;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -27,15 +21,24 @@ public class MainActivity extends AppCompatActivity {
         initFragment();
     }
 
-    private void initFragment(){
+    private void initFragment() {
         Fragment fragment;
-        if(pref.getBoolean(Constants.IS_LOGGED_IN,false)){
+        if (pref.getBoolean(Constants.IS_LOGGED_IN, false)) {
             fragment = new ProfileFragment();
-        }else {
+        } else {
             fragment = new LoginFragment();
         }
         FragmentTransaction ft = getFragmentManager().beginTransaction();
-        ft.replace(R.id.fragment_frame,fragment);
+        ft.replace(R.id.fragment_frame, fragment);
         ft.commit();
+    }
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, @Nullable Intent data) {
+        for (android.support.v4.app.Fragment fragment : getSupportFragmentManager().getFragments()) {
+            if (fragment != null)
+                fragment.onActivityResult(requestCode, resultCode, data);
+        }
+
     }
 }
