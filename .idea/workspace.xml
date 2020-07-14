@@ -190,10 +190,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2179" y="142" key="CommitChangelistDialog2" timestamp="1594766271094">
+    <state x="2179" y="142" key="CommitChangelistDialog2" timestamp="1594766326491">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state x="2179" y="142" key="CommitChangelistDialog2/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1594766271094" />
+    <state x="2179" y="142" key="CommitChangelistDialog2/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1594766326491" />
     <state width="1878" height="297" key="GridCell.Tab.0.bottom" timestamp="1594764982419">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
@@ -210,6 +210,10 @@
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
     <state width="1878" height="297" key="GridCell.Tab.0.right/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1594764982417" />
+    <state x="2240" y="280" key="Vcs.Push.Dialog.v2" timestamp="1594766329100">
+      <screen x="1680" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2240" y="280" key="Vcs.Push.Dialog.v2/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1594766329100" />
     <state x="2310" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1594764641742">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
