@@ -7,14 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87c0fa78-0279-45bf-abda-620679bb219a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_3_72_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_72_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_3_72_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/learn2crack/loginregistration/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/learn2crack/loginregistration/MainActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_core_runtime_1_1_1_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_1_1_1_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_lifecycle_livedata_core_1_1_1_aar.xml" afterDir="false" />
@@ -49,11 +44,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_android_support_viewpager_28_0_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_journeyapps_zxing_android_embedded_3_5_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_journeyapps_zxing_android_embedded_3_5_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroidLoginRegistration.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AndroidLoginRegistration.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/AndroidLoginRegistration-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/AndroidLoginRegistration-app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/learn2crack/loginregistration/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +89,6 @@
   <component name="PropertiesComponent">
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="R58M90Z2VCN" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-06-24T20:36:17.069Z" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -190,33 +180,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2179" y="142" key="CommitChangelistDialog2" timestamp="1594766326491">
+    <state x="2378" y="294" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1594770474344">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state x="2179" y="142" key="CommitChangelistDialog2/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1594766326491" />
-    <state width="1878" height="297" key="GridCell.Tab.0.bottom" timestamp="1594764982419">
+    <state x="2378" y="294" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1594770474344" />
+    <state width="939" height="255" key="GridCell.Tab.0.bottom" timestamp="1594771335375">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="297" key="GridCell.Tab.0.bottom/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1594764982419" />
-    <state width="1878" height="297" key="GridCell.Tab.0.center" timestamp="1594764982416">
+    <state width="939" height="255" key="GridCell.Tab.0.bottom/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1594771335375" />
+    <state width="939" height="255" key="GridCell.Tab.0.center" timestamp="1594771335373">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="297" key="GridCell.Tab.0.center/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1594764982416" />
-    <state width="1878" height="297" key="GridCell.Tab.0.left" timestamp="1594764982415">
+    <state width="939" height="255" key="GridCell.Tab.0.center/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1594771335373" />
+    <state width="939" height="255" key="GridCell.Tab.0.left" timestamp="1594771335372">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="297" key="GridCell.Tab.0.left/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1594764982415" />
-    <state width="1878" height="297" key="GridCell.Tab.0.right" timestamp="1594764982417">
+    <state width="939" height="255" key="GridCell.Tab.0.left/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1594771335372" />
+    <state width="939" height="255" key="GridCell.Tab.0.right" timestamp="1594771335374">
       <screen x="1680" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="297" key="GridCell.Tab.0.right/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1594764982417" />
-    <state x="2240" y="280" key="Vcs.Push.Dialog.v2" timestamp="1594766329100">
-      <screen x="1680" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2240" y="280" key="Vcs.Push.Dialog.v2/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1594766329100" />
-    <state x="2310" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1594764641742">
-      <screen x="1680" y="0" width="1920" height="1080" />
-    </state>
-    <state x="2310" y="384" key="com.intellij.ide.util.TipDialog/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1594764641742" />
+    <state width="939" height="255" key="GridCell.Tab.0.right/0.0.1680.1050/1680.0.1920.1080@1680.0.1920.1080" timestamp="1594771335374" />
   </component>
 </project>
